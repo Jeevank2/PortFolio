@@ -10,7 +10,7 @@ const ContactForm = () => {
 		subject: '',
 		message: '',
 	});
-	const [successMessage, setSuccessMessage] = useState('');
+	const [successMessage, setSuccessMessage] = useState(''); /// use state
 	const [errorMessage, setErrorMessage] = useState('');
 
 	const handleChange = (e) => {
