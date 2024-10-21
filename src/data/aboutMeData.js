@@ -1,0 +1,10 @@
+export const aboutMeData = [
+	{
+		id: 1,
+		bio: 'Hi, I’m Jeevan Kolte, a passionate full-stack developer dedicated to delivering innovative and high-performance web solutions. With expertise in cutting-edge technologies such as React.js, Node.js, and Express.js, I leverage Agile methodologies to ensure efficient project delivery and adaptability to client needs. I specialize in translating user stories into detailed Functional Specification Documents (FSD), enhancing project clarity and communication. From initial consultations to ongoing maintenance, I manage the end-to-end delivery of business requirements with precision. My commitment to engineering robust backend solutions using Node.js, Nest.js, and Fastify has resulted in significant efficiency improvements. Through data optimization techniques, including MongoDB pipeline enhancements, I’ve achieved remarkable throughput increases, showcasing my strong analytical and problem-solving skills. User experience is a priority in my designs, reflected in the custom React.js visualizations and dashboards I create to enhance operational efficiency. By developing reusable React components that adhere to the DRY principle, I ensure my code is maintainable and efficient. With a solid foundation in building and optimizing RESTful APIs and GraphQL for seamless data exchange, I have improved query performance across various databases. I am passionate about technology and dedicated to delivering exceptional solutions that drive success for my clients. Let’s innovate together!',
+	},
+	{
+		id: 2,
+		bio: 'An MCA graduate and passionate full-stack developer with expertise in React.js, Node.js, and Express.js. I specialize in delivering high-performance web solutions, leveraging Agile methodologies to meet client needs. With strong skills in backend development and data optimization, I focus on creating efficient, user-friendly applications. My goal is to combine technical proficiency with innovative design to drive success for my clients.',
+	},
+];
